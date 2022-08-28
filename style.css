@@ -11,6 +11,7 @@ body {
 	padding: 0;
 	/*overflow-x: hidden;*/
 	user-select: none;
+	pointer-events: none;
 }
 .back {
 	/*background: url("image/sun.gif") no-repeat center center fixed;*/
